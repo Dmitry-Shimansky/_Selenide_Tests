@@ -1,0 +1,9 @@
+# Default ignored files
+*.class
+/.idea
+*.xml
+*.txt
+*.lst
+*.iml
+*.log
+*.png
